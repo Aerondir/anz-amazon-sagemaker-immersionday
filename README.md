@@ -40,3 +40,10 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
+## Moar resources
+- https://sagemaker.readthedocs.io/en/stable/amazon_sagemaker_featurestore.html
+- SM Built-in Algorithms https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html
+- deploy SageMaker model to a different AWS account https://aws.amazon.com/premiumsupport/knowledge-center/sagemaker-cross-account-model/
+- https://aws.amazon.com/certification/certified-machine-learning-specialty/
+- SageMaker Immersion Day https://catalog.us-east-1.prod.workshops.aws/workshops/63069e26-921c-4ce1-9cc7-dd882ff62575/en-US
+- SageMaker Technical Deep Dive Series https://www.youtube.com/playlist?list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz
